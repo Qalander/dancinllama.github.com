@@ -15,8 +15,7 @@
                 {
                     "title": "Camp Quick Start (Trailhead) Help",
                     "time": "2016-10-04T08:00:00",
-                    "url": "",
-                    "presenter": true
+                    "url": ""
                 },{
                     "title": "Unit Testing Lightning Components with Jasmine",
                     "time": "2016-10-04T11:00:00",
@@ -70,7 +69,7 @@
                     "time": "2016-10-06T11:00:00",
                     "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBlVQAW"
                 },{
-                    "title": "Back Home :(",
+                    "title": "Head Back Home",
                     "time": "2016-10-06T12:30:00",
                     "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRjQAO"
                 }
