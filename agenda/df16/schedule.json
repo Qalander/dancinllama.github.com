@@ -1,0 +1,80 @@
+{
+    "days": [
+        {
+            "date": "2016-10-03",
+            "events": [
+                {
+                    "title": "Daytrip to Sonoma",
+                    "time": "2016-10-03T10:00:00"
+                }
+            ]
+        },
+        {
+            "date": "2016-10-04",
+            "events": [
+                {
+                    "title": "Camp Quick Start (Trailhead) Help",
+                    "time": "2016-10-04T08:00:00",
+                    "url": "",
+                    "presenter": true
+                },{
+                    "title": "Unit Testing Lightning Components with Jasmine",
+                    "time": "2016-10-04T11:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRfQAO"
+                },{
+                    "title": "Power-Up Your Community: How Heroku Can Take Users to the Next Level",
+                    "time": "2016-10-04T15:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBhKQAW"
+                },{
+                    "title": "Packaging Enhancements and Feature Enablement",
+                    "time": "2016-10-04T17:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000sWWKQA2"
+                },{
+                    "title": "Awesome People Party",
+                    "time": "2016-10-04T18:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-05",
+            "events": [
+                {
+                    "title": "Code Consultations in Dev Zone",
+                    "time": "2016-10-05T10:00:00",
+                    "url": ""
+                },{
+                    "title": "Be a Customer Trailblazer with Marc Benioff and Special Guests",
+                    "time": "2016-10-05T15:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000001o3ZgQAI"
+                },{,{
+                    "title": "Parker Harris' True to the Core",
+                    "time": "2016-10-05T18:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000sWSWQA2"
+                },{
+                    "title": "TaskRay & Workato: Customer Appreciation Party",
+                    "time": "2016-10-05T21:00:00",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "date": "2016-10-06",
+            "events": [
+                {
+                    "title": "Dev Community Breakfast",
+                    "time": "2016-10-06T07:00:00",
+                    "url": ""
+                },{
+                    "title": "Salesforce for Developers Keynote",
+                    "time": "2016-10-06T11:00:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBlVQAW"
+                },{
+                    "title": "Back Home :(",
+                    "time": "2016-10-06T12:30:00",
+                    "url": "https://success.salesforce.com/MyAgenda?eventId=a1Q3000000qQOd9EAG#/session/a2q3A000000LBRjQAO"
+                }
+            ]
+        }
+    ]
+}
