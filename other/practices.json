@@ -7,5 +7,8 @@
         ,"Triggers should follow the naming convention of TriggerController_<SObjectName>"
         ,"Triggers allow for at least 200 records in queries and DML operations"
         ,"Triggers use the appropriate context (before insert, after insert, before update, after update, before delete, after delete)"
+        ,"Triggers should implement the APEX Trigger Settings custom setting for turning triggers on and off (See TriggerController_Account for an example.)"
+        ,"New Apex classes or methods should be 100% code covered."
+        ,"Each new Apex class should have a test associated with it following the naming convention <ApexClassName>Test"
     ]
 }
