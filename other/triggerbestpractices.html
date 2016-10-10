@@ -25,14 +25,11 @@
 					<i class="fa fa-circle-o-notch fa-spin"></i> Loading...
 				</div>
 			</div>
+			<ol>
 				<div class="row" ng-repeat="practice in data.practices" ng-show="!loading">
-				<!--<div class="col-md-12">
-					<h2>{{ day.date | date:'longDate'}}</h2>
-				</div>-->
-				<div class="col-md-12">
-					{{ practice }}
+					<li>{{ practice }}</li>
 				</div>
-			</div>
+			</ol>
 		</div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
