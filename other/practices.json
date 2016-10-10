@@ -1,0 +1,11 @@
+{
+    "practices": [
+        "Use only one trigger per object."
+        ,"Do not mix triggers and processes on the same object (Could lead to recursion and performance degragation.)"
+        ,"Trigger should follow trigger handler pattern, moving all logic to a separate Apex class"
+        ,"Triggers and Apex code are 100% covered with unit tests."
+        ,"Triggers should follow the naming convention of TriggerController_<SObjectName>"
+        ,"Triggers allow for at least 200 records in queries and DML operations"
+        ,"Triggers use the appropriate context (before insert, after insert, before update, after update, before delete, after delete)"
+    ]
+}
