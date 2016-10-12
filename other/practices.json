@@ -10,5 +10,7 @@
         ,"Triggers should implement the APEX Trigger Settings custom setting for turning triggers on and off (See TriggerController_Account for an example.)"
         ,"New Apex classes or methods should be 100% code covered."
         ,"Each new Apex class should have a test associated with it following the naming convention <ApexClassName>Test"
+        ,"Apex classes and Visualforce Pages should be named using CamelCase, and be generally descriptive"
+        ,"Controller and extension Apex classes should be named the same as their VF counterparts with a suffix of 'Ctrl', for instance SafetyShoeSearchCtrl for a VF page called SafetyShoeSearch"
     ]
 }
